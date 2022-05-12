@@ -1,0 +1,2 @@
+# -IniWrite
+ Func _Save_Ini()     ;Even if $Var is unchanged from IniRead     IniWrite("The settings file and the corresponding",$Something_Var01)     IniWrite("The settings file and the corresponding",$Something_Var02)     IniWrite("The settings file and the corresponding",$Something_Var03)     IniWrite("The settings file and the corresponding",$Something_Var04)     IniWrite("The settings file and the corresponding",$Something_Var05)     ;...etc     Exit EndFunc
